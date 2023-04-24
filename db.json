@@ -1,0 +1,15 @@
+{
+  
+  "users": [
+    {
+      "id": 1,
+      "email": "jamesbond@gmail.com",
+      "password":"james123",
+      "name":"James",
+      "role": "spy"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
